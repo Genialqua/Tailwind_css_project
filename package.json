@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Genialqua/Tailwind_css_project/issues"
   },
-  "homepage": "https://github.com/Genialqua/Tailwind_css_project#readme"
+  "homepage": "https://github.com/Genialqua/Tailwind_css_project#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
 }
